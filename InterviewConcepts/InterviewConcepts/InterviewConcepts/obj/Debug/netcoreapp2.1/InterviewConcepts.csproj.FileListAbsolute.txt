@@ -1,0 +1,11 @@
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\bin\Debug\netcoreapp2.1\InterviewConcepts.deps.json
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\bin\Debug\netcoreapp2.1\InterviewConcepts.runtimeconfig.json
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\bin\Debug\netcoreapp2.1\InterviewConcepts.runtimeconfig.dev.json
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\bin\Debug\netcoreapp2.1\InterviewConcepts.dll
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\bin\Debug\netcoreapp2.1\InterviewConcepts.pdb
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.csprojAssemblyReference.cache
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.csproj.CoreCompileInputs.cache
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.AssemblyInfoInputs.cache
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.AssemblyInfo.cs
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.dll
+C:\Users\glakshmi\Documents\InterviewConcepts\InterviewConcepts\InterviewConcepts\obj\Debug\netcoreapp2.1\InterviewConcepts.pdb
